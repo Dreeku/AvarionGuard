@@ -1,0 +1,18 @@
+commands:
+  avarionguicommand: true
+
+systems:
+  antiproxy: true
+  blacklist: false
+  whitelist: false
+
+blacklist:
+  nickname:
+  #- 'nickname'
+  ip:
+  #- '123.123.123.123'
+whitelist:
+  nickname:
+  #- 'nickname'
+  ip:
+  #- '123.123.123.123'

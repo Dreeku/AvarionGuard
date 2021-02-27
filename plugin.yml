@@ -1,0 +1,7 @@
+name: 'AvarionGuard'
+author: 'AvarionCode'
+version: '0.1-ALPHA'
+main: 'net.avarioncode.anticrash.AvarionGuard'
+commands:
+  avarionguard:
+    aliases: [ "anticrash", "antiproxy", "antycrash", "antyproxy" ]
